@@ -1,6 +1,6 @@
 # REA
 
-REA is a plug-and-play strategy to mitigate the effect of noise in the given labeled entity pairs for alignment problem. Our code is implemented based on Align-GCN[1], is also can be developed for other alignment algorithms.
+REA is a plug-and-play strategy to mitigate the effect of noise in the given labeled entity pairs for entity alignment problem. Our code is implemented based on Align-GCN[1], the idea also can be easily developed for other alignment algorithms.
 
 Usage coming soon....
 
