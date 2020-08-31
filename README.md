@@ -4,6 +4,8 @@ REA is a plug-and-play strategy to mitigate the effect of noise in the given lab
 
 Usage coming soon....
 
+Contact: Shichao Pei (shichao.pei@kaust.edu.sa)
+
 Reference:
 
 [1] Zhichun Wang, Qingsong Lv, Xiaohan Lan, and Yu Zhang. 2018. Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.. In EMNLP.
