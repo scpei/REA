@@ -9,14 +9,14 @@ REA is a plug-and-play strategy to mitigate the effect of noise in the given lab
 
 Contact: Shichao Pei (shichao.pei@kaust.edu.sa)
 
-# Environment
+## Environment
 
 * python>=3.5
 * tensorflow>=1.10.1
 * scipy>=1.1.0
 * networkx>=2.2
 
-# Usage
+## Usage
 
 ```
 python3 train.py --lang zh_en
