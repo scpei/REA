@@ -1,4 +1,4 @@
-# REA
+# REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 
 Our proposed method REA (Robust Entity Alignment) consists of two components: noise detection and noise-aware entity alignment. 
 
